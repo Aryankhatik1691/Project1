@@ -1,22 +1,3 @@
-git add
-git add " project1"
-git add "# project1"
-git add #project1
-git add README.md "# Project1"
-git add "# Project1">> README.md
-git add '# project1'
-git status
-"git add README.md"
-git add "README.md"
-git commit -m "add readme.md"
-git branch -m main
-git remote add origin https://github.com/Aryankhatik1691/Project1.git
-git remote add origin git@github.com:Aryankhatik1691/Project1.git
-git push -u origin main
-git init 
-git add "calculator.java"
-git status
-git add "saved games"
 git commit
 git add "README.md"
 git commit -m "git add readme.md"
@@ -498,3 +479,22 @@ git branch
 git git branch
 git branch
 git branch
+git init
+git add file
+git commit -m "FILE ADDED"
+git add .bash_history
+git add bash_history
+git add vim
+git add file
+git status
+git commit -m "bash history added "
+git log --oneline
+git status
+git add gitconfig
+git status
+git add .gitconfig
+git status
+git checkout -- file
+cat file
+git --abort
+git revert --abort
