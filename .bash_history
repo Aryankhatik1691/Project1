@@ -1,28 +1,3 @@
-git commit
-git add "README.md"
-git commit -m "git add readme.md"
-git add readme.md
-git branch -m main
-git commit -m "first commit"
-git init
-dir
-git add "calculator.java
-git commit -m "first commit"
-git remote add origin git@github.com:Aryankhatik1691/Project1.git
-git push -u origin main
-
-git config --global uer.name "Aryan khatik"
-git config --global user.email "rkhatik156@gmail.com"
-git init 
-dir
-git add "README.md"
-git commit -m "first commit"
-git add 
-git add calculator.java
-git add "calculator.java"
-git add "README.md"
-git commit -m "first commit"
-git branch im main
 git branch -m main
 git remote add origin https://github.com/Aryankhatik1691/Project1.git
 git remote add origin git@github.com:Aryankhatik1691/Project1.git
@@ -498,3 +473,28 @@ git checkout -- file
 cat file
 git --abort
 git revert --abort
+git status
+git restore .bash_history
+git status
+git local
+dir
+ 'cd Desktop/assessment/'
+git clone https://github.com/upgrad-edu/Upgrad-experience.git
+ls
+'cd upgrad-exeperience/'
+cd upgrad-experience/
+git log
+q
+git log --oneline
+74c67829420fc8c333ffb8e4012b9ef6c8287c7f
+SHA 74c67829420fc8c333ffb8e4012b9ef6c8287c7f
+git status
+git clone'https://github.com/upgrad-edu/Upgrad-experience'
+git clone 'https://github.com/upgrad-edu/Upgrad-experience'
+ls
+cd Upgrad-experience/
+git log
+q
+git log --oneline
+git init
+git init
