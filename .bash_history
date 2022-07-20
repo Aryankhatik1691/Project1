@@ -1,19 +1,3 @@
-git branch -m main
-git remote add origin https://github.com/Aryankhatik1691/Project1.git
-git remote add origin git@github.com:Aryankhatik1691/Project1.git
-git remote add origin git@github.com:Aryankhatik1691/Project1.git
-git remote add origin git@github.com:Aryankhatik1691/Project1.git
-git remote add origin git@github.com:Aryankhatik1691/Project1.git
-git push -u origin main
-git init
-git add "exercise"
-git add 
-git add readme.md
-git add exercise
-git add  readme.md
-git config --global user.name "Aryan khatik"
-git config --global user.email "Rkhatik156@gmail.com"
-git init 
 git add README.md
 git commit -m "first commit"
 git remote add origin git@github.com:Aryankhatik1691/project-2.git
@@ -498,3 +482,19 @@ q
 git log --oneline
 git init
 git init
+git main
+git mailinfo
+git clone https://github.com/Aryankhatik1691/Courses.git
+dir
+vim courses
+git add courses
+git commit -m "added"
+git restore 
+git restore .bash_history
+git status
+git add courses
+git commit -m "added courses message"
+git push courses
+git clone https://github.com/Aryankhatik1691/Courses.git
+dir
+vim courses
