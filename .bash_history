@@ -112,3 +112,24 @@ git status
 git oush -u origin main
 git push -u origin main
 git pull
+git status
+git add .bash_history
+git status
+git commit -m " bash added"
+git push -u origin main
+https://github.com/Aryankhatik1691/Project1.git
+https://github.com/Aryankhatik1691/Project1.git
+git remote add origin https://github.com/Aryankhatik1691/Project1.git
+git push -u origin master
+git pull
+git status
+git psuh
+git push
+git help config
+git status
+git pull
+git push -u origin main
+git@github.com:Aryankhatik1691/Project1.git
+Run a one-line script
+git run
+git prune
