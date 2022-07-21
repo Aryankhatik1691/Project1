@@ -87,3 +87,28 @@ git add courses
 git status
 git commit -m "message added"
 git status
+git log
+git log --oneline
+git pul
+git pull
+git push
+git status
+git add .bash_history
+git status
+git commit -m "bash added"
+git remote add origin https://github.com/Aryankhatik1691/Project1.git
+git push -u origin main
+git push -u origin master
+git push -u origin master
+git pull
+git push -u origin master
+git branch
+git checkout main
+git push -u origin main
+git status
+https://github.com/Aryankhatik1691/Project1.git
+git log
+git status
+git oush -u origin main
+git push -u origin main
+git pull
